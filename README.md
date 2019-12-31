@@ -20,5 +20,5 @@ There are three dropdown menus for:
 
 To work on an existing file click the `Choose File` button on the top left and open the file you want to edit.
 
-To download the new edited file click the `Save File` button on the top right of the editor.
+To download the newly edited file click the `Save File` button on the top right of the editor.
 
