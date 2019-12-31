@@ -6,6 +6,8 @@ To run the the code download the zip file.
 
 Then in your terminal directory run `npm start`
 
+Navigate to [http://localhost:3000](http://localhost:3000) to see the editor in the browser.
+
 ## Inside the editor
 
 There are three dropdown menus for:
