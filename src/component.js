@@ -83,7 +83,7 @@ export default function Home() {
                     </div>
                     <div className="col-sm-6">
                     <center>
-                        <h1 className="title">Psquares Text Editor</h1>
+                        <h1 className="title">Parth's Text Editor</h1>
                     </center>
                     </div>
                     <div className="col-sm-3 customize">
